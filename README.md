@@ -1,28 +1,32 @@
 <h3 align="center">WOW WELCOME TO MY GITHUB REPO 🤯🤯</h3>
 <p align="center">This is my little playground and I will do whatever I want in my github HAHAHAHA</p>
+<p align="center>
+          <a href="https://twitter.com/its_ramaadi"><img src="https://img.shields.io/badge/Twitter-%40its__ramaadi-blue?style=for-the-badge&logo=twitter"></a>
+          /
+          <a href="https://instagram.com/its.ramaadi"><img src="https://img.shields.io/badge/Instagram-%40its.ramaadi-red?style=for-the-badge&logo=instagram"></a>
+</p>
 <p align="center">︵‿︵‿︵‿︵‿︵</p>
 
-<h3 align="center">COOL STATS. AWESOME STATS.</h3>
-<p align="center">︵‿︵‿︵‿︵‿︵</p>
-
-#### MY GITHUB STATS. IM TRYING TO INCREASE IT OK?
+#### Here's my github stat
+I Know, it's kinda lame. But I'll increase it ok?
 ![Rama Adi's github stats](https://github-readme-stats.vercel.app/api?username=rama-adi)
 
 
-#### TOP LANGS
+#### Top language
+This is a lie, I'm mostly working with php. But it's all private so...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rama-adi&layout=compact)
 
 
 (Want these SICK cards for your about page? [Here's the how to, it's neat](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### I'M WORKING ON
+#### What i'm working on
+These are all i'm doing these days. That's why my open source is so barren.
 * SainsIn Education - Backend Developer
 * Hydrabot - Backend Developer (side project)
 
-#### SEE MY WEBSITE
-IT'S NOT HERE YET BUT I WILL ADD IT ONCE I HAVE A WEBSITE.
-
+#### My website
+Not here yet. Maybe someday
 <!--
 **rama-adi/rama-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
