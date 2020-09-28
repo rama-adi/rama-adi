@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+  # WOW WELCOME TO MY GITHUB REPO 🤯🤯
+</p>
 <!--
 **rama-adi/rama-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
