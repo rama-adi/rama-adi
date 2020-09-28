@@ -4,9 +4,9 @@
 
 <h3 align="center">COOL STATS. AWESOME STATS.</h3>
 <p align="center">︵‿︵‿︵‿︵‿︵</p>
-| #### MY GITHUB SCORE                                                                     	| #### ALSO HERE'S MY TOP LANGUAGE                                                                     	|
-|------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------	|
-| ![Rama Adi's github stats](https://github-readme-stats.vercel.app/api?username=rama-adi) 	| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rama-adi&layout=compact) 	|
+| #### MY GITHUB SCORE | #### ALSO HERE'S MY TOP LANGUAGE |
+|----------------------|----------------------------------|
+| ![Rama Adi's github stats](https://github-readme-stats.vercel.app/api?username=rama-adi) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rama-adi&layout=compact) |
 
 (Want these SICK cards for your about page? [Here's the how to, it's neat](https://github.com/anuraghazra/github-readme-stats)
 
