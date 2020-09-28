@@ -1,10 +1,7 @@
-<h3 align="center">WOW WELCOME TO MY GITHUB REPO 🤯🤯</h3>
-<p align="center">This is my little playground and I will do whatever I want in my github HAHAHAHA</p>
-<p align="center>
-          <a href="https://twitter.com/its_ramaadi"><img src="https://img.shields.io/badge/Twitter-%40its__ramaadi-blue?style=for-the-badge&logo=twitter"></a>
-          /
-          <a href="https://instagram.com/its.ramaadi"><img src="https://img.shields.io/badge/Instagram-%40its.ramaadi-red?style=for-the-badge&logo=instagram"></a>
-</p>
+### WOW WELCOME TO MY GITHUB REPO 🤯🤯
+This is my little playground and I will do whatever I want in my github HAHAHAHA
+<a href="https://twitter.com/its_ramaadi"><img src="https://img.shields.io/badge/Twitter-%40its__ramaadi-blue?style=for-the-badge&logo=twitter"></a>
+<a href="https://instagram.com/its.ramaadi"><img src="https://img.shields.io/badge/Instagram-%40its.ramaadi-red?style=for-the-badge&logo=instagram"></a>
 <p align="center">︵‿︵‿︵‿︵‿︵</p>
 
 #### Here's my github stat
