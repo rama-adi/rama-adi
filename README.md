@@ -1,6 +1,11 @@
 <p align="center">
-  # WOW WELCOME TO MY GITHUB REPO 🤯🤯
+  <h1>WOW WELCOME TO MY GITHUB REPO 🤯🤯</h1>
+  <span>This is my little playground and I will do whatever I want in my github HAHAHAHA</span>
 </p>
+
+## Cool stats
+![Rama Adi's github stats](https://github-readme-stats.vercel.app/api?username=rama-adi) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 <!--
 **rama-adi/rama-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
