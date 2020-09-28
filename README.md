@@ -6,11 +6,13 @@ This is my little playground and I will do whatever I want in my github HAHAHAHA
 
 #### Here's my github stat
 I Know, it's kinda lame. But I'll increase it ok?
+
 ![Rama Adi's github stats](https://github-readme-stats.vercel.app/api?username=rama-adi)
 
 
 #### Top language
 This is a lie, I'm mostly working with php. But it's all private so...
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rama-adi&layout=compact)
 
 
