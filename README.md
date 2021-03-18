@@ -1,5 +1,5 @@
 ### WOW WELCOME TO MY GITHUB REPO 🤯🤯
-This is my little playground and I will do whatever I want in my github HAHAHAHA
+This is my little playground
 
 
 <a href="https://twitter.com/its_ramaadi"><img src="https://img.shields.io/badge/Twitter-%40its__ramaadi-blue?style=for-the-badge&logo=twitter"></a>
