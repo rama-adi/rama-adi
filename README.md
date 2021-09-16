@@ -1,4 +1,5 @@
-# hey, i'm working on this bio rn. just wait
+<img src="https://i.vgy.me/enum8D.png" alt="rama adi nugraha (onebyte) profile banner" />
+
 <!--
 <a href="https://twitter.com/its_ramaadi"><img src="https://img.shields.io/badge/Twitter-%40its__ramaadi-blue?style=for-the-badge&logo=twitter"></a>
 <a href="https://instagram.com/its.ramaadi"><img src="https://img.shields.io/badge/Instagram-%40its.ramaadi-red?style=for-the-badge&logo=instagram"></a>
