@@ -1,10 +1,7 @@
-### WOW WELCOME TO MY GITHUB REPO 🤯🤯
-This is my little playground
-
-
+# hey, i'm working on this bio rn. just wait
+<!--
 <a href="https://twitter.com/its_ramaadi"><img src="https://img.shields.io/badge/Twitter-%40its__ramaadi-blue?style=for-the-badge&logo=twitter"></a>
 <a href="https://instagram.com/its.ramaadi"><img src="https://img.shields.io/badge/Instagram-%40its.ramaadi-red?style=for-the-badge&logo=instagram"></a>
-
 
 <p align="center">︵‿︵‿︵‿︵‿︵</p>
 
@@ -23,24 +20,7 @@ This is a lie, I'm mostly working with php. But it's all private so...
 (Want these SICK cards for your about page? [Here's the how to, it's neat](https://github.com/anuraghazra/github-readme-stats)
 
 
-#### What i'm working on
-These are all i'm doing these days. That's why my open source is so barren.
-* SainsIn Education - Backend Developer
-* Hydrabot - Backend Developer (side project)
 
 #### My website
 Not here yet. Maybe someday
-<!--
-**rama-adi/rama-adi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
