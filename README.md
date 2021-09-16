@@ -1,5 +1,18 @@
 <img src="https://i.vgy.me/enum8D.png" alt="rama adi nugraha (onebyte) profile banner" />
+---
+## `whoami:`
+18 years old developer with interests in Fullstack development. Currently studying at IMT @ Universitas Ciputra
+## 🔗 Connect with me
+[🐤 twitter @its_ramaadi](https://twitter.com/its_ramaadi)
+ • [🏀 dribbble onebytesh](https://dribbble.com/onebytesh)
+ • [🌏 website rama-adi.dev WIP](https://rama-adi.dev)
+ • [💬 discord onebyte#0732](https://discord.com/users/219071603953238016)
+## 💼 Work with me
+Currently, i'm not open for commission. But once I do, i can work with React / Nextjs, Laravel.
 
+## 📂 Projects
+* [sainsin](https://sainsin.id) - Online tryout for university test. Working with multiple people
+* For more project, check my pinned works. I will be making more OSS contribution later
 <!--
 <a href="https://twitter.com/its_ramaadi"><img src="https://img.shields.io/badge/Twitter-%40its__ramaadi-blue?style=for-the-badge&logo=twitter"></a>
 <a href="https://instagram.com/its.ramaadi"><img src="https://img.shields.io/badge/Instagram-%40its.ramaadi-red?style=for-the-badge&logo=instagram"></a>
