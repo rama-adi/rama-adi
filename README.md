@@ -1,7 +1,7 @@
 <img src="https://i.vgy.me/enum8D.png" alt="rama adi nugraha (onebyte) profile banner" />
 
-## `whoami:`
-18 years old developer with interests in Fullstack development. Currently studying at IMT @ Universitas Ciputra
+## 👋 `whoami:`
+18 years old developer with interests in Fullstack development. Currently studying at IMT @ Universitas Ciputra. He/him
 
 ## 🔗 Connect with me
 [🐤 twitter @its_ramaadi](https://twitter.com/its_ramaadi)
