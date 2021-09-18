@@ -1,6 +1,6 @@
 <img src="https://i.vgy.me/enum8D.png" alt="rama adi nugraha (onebyte) profile banner" />
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/219071603953238016?bg=23283D&borderRadius=8px&hideDiscrim=true&hideStatus=false&idleMessage=Proabably%20%F0%9F%9B%8C)](https://discord.com/users/219071603953238016)
-
+<a href="https://discord.com/users/335988287913066498"><img alt="discord presence" align="left" src="https://lanyard-profile-readme.vercel.app/api/219071603953238016?bg=23283D&borderRadius=8px&hideDiscrim=true&hideStatus=false&idleMessage=Proabably%20%F0%9F%9B%8C"/></a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/219071603953238016)](https://discord.com/users/219071603953238016)
 ## 👋 `whoami:`
 18 years old developer with interests in Fullstack development. Currently studying at IMT @ Universitas Ciputra. He/him
 
