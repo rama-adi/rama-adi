@@ -19,6 +19,7 @@ Currently, i'm not open for commission. But once I do, i can work with React / N
 
 ## 💭 Discord presence
 This is actually just for fun xD
+
 <a href="https://discord.com/users/335988287913066498"><img alt="discord presence" src="https://lanyard-profile-readme.vercel.app/api/219071603953238016?bg=23283D&borderRadius=8px&hideDiscrim=true&hideStatus=false&idleMessage=Proabably%20%F0%9F%9B%8C"/></a>
 <!--
 <a href="https://twitter.com/its_ramaadi"><img src="https://img.shields.io/badge/Twitter-%40its__ramaadi-blue?style=for-the-badge&logo=twitter"></a>
